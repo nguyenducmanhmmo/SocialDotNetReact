@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\manhmeo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\manhmeo\\.nuget\\packages"
+    ]
+  }
+}
