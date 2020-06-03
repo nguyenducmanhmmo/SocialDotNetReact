@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "m4BYQR3PWcXUKXRV2710nGo13rR2IluF++BIohcGSX/qF3YT9ZNIwtJrwlbTXk+IeZZbPTQIYdAMS8rem0rVrw==",
+  "dgSpecHash": "zvYSpeu6h3PmmFc28w77b6n7GuUQYjRbr3R6IJjqv2CpxrcNBRPaQ3mC8CN1E2tpvomjfaxVfmsP6bQgTAaKGw==",
   "success": true,
   "projectFilePath": "C:\\Users\\manhmeo\\social\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\manhmeo\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\manhmeo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\manhmeo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\manhmeo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\manhmeo\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.4\\microsoft.data.sqlite.core.3.1.4.nupkg.sha512",
